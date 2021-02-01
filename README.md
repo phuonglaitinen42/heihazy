@@ -7,3 +7,7 @@
   - :mage_woman: I enjoy creating highly visual, highly maintainable applications and learning by doing.
   - Multilingual: :gb: :vietnam: :finland: :cn:
   - Hobby: I am into video games, my goal this year is to learn more about game production instead of simply playing.
+  
+  ### My Stats
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heihazy&count_private=true&show_icons=true&theme=dracula)
+  
