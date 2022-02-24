@@ -1,8 +1,7 @@
 ### Hi there, I'm Phuong, welcome to my Github profile :smiley:
-  🔭 I am currently open for new opportunity.
   
 ### About me
-   :office: I was employed as full stack developer and team lead at Globuzzer AB located in :sweden:
+   :office: I am currently employed as Junior Software Developer at Trineria Oy.
   - :woman_student: Certificate in Full Stack Web Development and BBA in International Business.
   - :mage_woman: I enjoy creating highly visual, highly maintainable applications and learning by doing.
   - Multilingual: :gb: :vietnam: :finland: :cn:
